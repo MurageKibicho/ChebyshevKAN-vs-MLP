@@ -12,6 +12,8 @@ Comparing Chebyshev Polynomial Kolmogorov Arnold Networks to Multilayer Perceptr
 ## Overview
 
 [Complete writeup is available here](https://leetarxiv.substack.com/p/chebyshev-kolmogorov-arnold-networks)
+![Poster Summary](Images/ChebyshevKolmogorov.png)
+
 
 Chebyshev Polynomials are sequences of polynomials defined on the interval [-1, 1]. 
 
